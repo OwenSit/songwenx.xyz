@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  background-color: #5cdb95;
+}
+
+h1 {
+  color: #05386b;
+  margin-left: 20px;
+}
+
+#main {
+  color: #05386b;
+  border: double;
+  border-width: 5px;
+  border-color: #05386b;
+  border-radius: 10px;
+  padding: 0pt 5pt;
+}
